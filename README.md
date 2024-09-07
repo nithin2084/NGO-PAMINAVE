@@ -4,15 +4,13 @@
 
 ## Here is the demo hoisted website
 <a href="https://paminave2024.netlify.app/">PAMINAV2024</a><br><br>
-
-<strong>Features</strong>:<br>
-<ul>
-<li>Display of upcoming events related to environmental conservation.</li>
-<li>Admin-only access for adding new events, secured by a password.</li>
-</ul>
+<strong>Notice:</strong>
+<strong>This is just a layout or plan and not the original website , this is used only testing out things </strong><br>
 <strong>Technologies Used:</strong>
 <ul>
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
+<li>Node.js</li>
+<li>MongoDB</li>
 </ul>
